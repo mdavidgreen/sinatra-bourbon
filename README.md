@@ -2,7 +2,9 @@ This is an example of how to use HAML and Sass (3.3+) with Sinatra, while incorp
 
 To get started, run:
 
-    git clone git://github.com/mdavidgreen/sinatra-bourbon.git
+    git clone git://github.com/mdavidgreen/sinatra-bourbon.git SITENAME
+    cd SITENAME
+    bundle install
 
 To start running locally, run:
 
